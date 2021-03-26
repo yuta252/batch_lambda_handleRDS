@@ -1,4 +1,4 @@
 boto3
 PyMySQL==0.10.0
-PyYAML==5.3.1
+PyYAML==5.4
 pandas
